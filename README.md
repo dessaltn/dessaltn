@@ -77,8 +77,8 @@
 
 | Role | Institution | Focus |
 |---|---|---|
-| U.S. CMS PURSUE/SPRINT Intern | Fermilab | tWZ vs ttZ discrimination in 4-lepton final states, EFT sensitivity, ML for signal detection |
-| Research Assistant, Optics Lab | UM-Flint | Synthesized CdSe quantum-sized semiconductors, spectrophotometry & cryo systems |
+| **U.S. CMS PURSUE/SPRINT Intern**<br>[![View Code](https://img.shields.io/badge/View_Code-CMS_Analysis-005B96?style=flat-square&logo=github&logoColor=white)](https://github.com/dessaltn/YOUR-REPO-NAME) | [Fermilab](https://www.fnal.gov) | tWZ vs ttZ discrimination in 4-lepton final states, EFT sensitivity, ML for signal detection |
+| **Research Assistant, Optics Lab** | UM-Flint | Synthesized CdSe quantum-sized semiconductors, spectrophotometry & cryo systems |
 
 ---
 
